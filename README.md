@@ -2,7 +2,7 @@
 
 ![CC0 public domain](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-All images in this repository are public domain and can be used without any limitation by anybody.
+All images in this repository are public domain/CC0 and can be used without any limitation by anybody.
 
 ## Background
 
